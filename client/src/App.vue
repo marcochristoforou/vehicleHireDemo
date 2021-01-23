@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Welcome Car Hire App"/>
+    <VehicleHire msg="Welcome Car Hire App"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import VehicleHire from './components/VehicleHire.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    VehicleHire
   }
 }
 </script>

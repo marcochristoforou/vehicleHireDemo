@@ -2,7 +2,7 @@ import axios from "axios";
 import Datepicker from "vuejs-datepicker/dist/vuejs-datepicker.esm.js";
 
 export default {
-  name: 'HelloWorld',
+  name: 'VehicleHire',
   props: {
     msg: String
   }, 

@@ -29,10 +29,10 @@
     </div>
     <p>
       <label>Start Date</label>
-      <datepicker class="text-center" :format="format" v-on:selected="setStartDate"></datepicker>
+      <datepicker class="text-center" v-on:selected="setStartDate"></datepicker>
       <br>
       <label>End Date</label>
-      <datepicker class="text-center" :format="format" v-on:selected="setEndDate"></datepicker>
+      <datepicker class="text-center" v-on:selected="setEndDate"></datepicker>
     </p>
     <button type="button" class="btn btn-primary" v-on:click="getVehicesByDate">
       Get Cost
@@ -58,6 +58,6 @@
   </div>
 </template>
 
-<script src="./HelloWorld.js"></script>
-<style scoped src="./HelloWorld.css"></style>
+<script src="./VehicleHire.js"></script>
+<style scoped src="./VehicleHire.css"></style>
 

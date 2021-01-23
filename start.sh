@@ -1,0 +1,4 @@
+./mvnw spring-boot:run
+
+cd client
+npm run serve
