@@ -1,4 +1,3 @@
-./mvnw spring-boot:run
+cd server; ./mvnw spring-boot:run &
 
-cd client
-npm run serve
+cd ../client; npm run serve
