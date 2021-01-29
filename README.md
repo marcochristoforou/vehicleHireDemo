@@ -11,8 +11,11 @@ It's just an off the cuff hack but a more polished version would need...
 * More front end error checking (only enable 'Get Cost' button when information had been supplied by the user)
 * Authentication mechanism
 * Unit tests
-* Containaerisation
+* End-to-end tests (may be using BDD/Cucumber)
+* Containerisation
 * Set up to run in dev environment (i.e. none of my debug)
+* SSL
+* Cloud hosting
 
 ... and so it goes on.
 
