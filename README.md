@@ -1,4 +1,4 @@
-# Vehicle Hire Demo Usinhg Sping Java and Vue.js
+# Vehicle Hire Demo Using Sping Java and Vue.js
 
 This is the first time I've used both of these technologies. Although I have dabbled in other peoples Java code.
 I'm more a .NET 5/Node/Angular/React full stack developer guy, but have always felt it should not be difficult to apply similar principles using different tech.
